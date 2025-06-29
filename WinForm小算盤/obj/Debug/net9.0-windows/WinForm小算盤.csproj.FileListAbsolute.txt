@@ -1,0 +1,16 @@
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\bin\Debug\net9.0-windows\WinForm小算盤.exe
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\bin\Debug\net9.0-windows\WinForm小算盤.deps.json
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\bin\Debug\net9.0-windows\WinForm小算盤.runtimeconfig.json
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\bin\Debug\net9.0-windows\WinForm小算盤.dll
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\bin\Debug\net9.0-windows\WinForm小算盤.pdb
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.Form1.resources
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.csproj.GenerateResource.cache
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.GeneratedMSBuildEditorConfig.editorconfig
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.AssemblyInfoInputs.cache
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.AssemblyInfo.cs
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.csproj.CoreCompileInputs.cache
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.dll
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\refint\WinForm小算盤.dll
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.pdb
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.genruntimeconfig.cache
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\ref\WinForm小算盤.dll
