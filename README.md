@@ -1,31 +1,42 @@
-# ModularCalculator
-Modular calculator with prefix/infix/postfix conversion and expression tree visualization using DFS traversal.
+# Modular Calculator (WinForms)
 
-A modular calculator built with WinForms in C#.  
-It supports arithmetic operations and will soon support expression tree visualization, including:
+A modular calculator built with C# and WinForms, designed to demonstrate object-oriented programming principles, design patterns, and tree traversal algorithms.
 
-- Prefix, Infix, Postfix conversion
-- Expression Tree construction
-- DFS traversal animation
+## ✨ Features
 
-This project aims to help learners understand algorithmic principles and apply them to real-world UI design using OOP architecture.
+- Basic arithmetic operations: Addition, Subtraction, Multiplication
+- Modular architecture using Factory and Abstract classes
+- Infix, Prefix, and Postfix expression conversion
+- Visual DFS tree traversal for educational purposes
+- Clean separation between UI and logic (front-end & back-end decoupling)
+- Designed for further expansion with more operator modules
 
-## Features
-- Basic arithmetic operations (Add, Subtract, Multiply, Divide)
-- Factory pattern for operator instantiation
-- Extensible modular design
-- Coming soon: Expression Tree + DFS Visualization
+## 🧠 Tech Stack
 
-## Tech Stack
-- C# .NET Framework
-- WinForms
-- OOP, Factory Pattern
+- Language: C#
+- UI: Windows Forms (WinForms)
+- Architecture: OOP, Factory Pattern
 
-## Screenshots
-_(Add screenshots of your UI here)_
+## 📚 Educational Purpose
 
-## Roadmap
-- [x] Basic calculator with OOP structure
-- [ ] Prefix / Postfix conversion support
-- [ ] Expression Tree visualization
-- [ ] Interactive DFS traversal demo
+This project helps visualize and understand how tree traversal (DFS) can be applied in real-life applications such as expression evaluation and compiler design.
+
+## 🛠️ How to Run
+
+1. Clone the repo:
+git clone https://github.com/BboRainbo/ModularCalculator.git
+2. Open the `.sln` file in Visual Studio
+3. Build and run the project
+
+## 📌 Roadmap
+
+- [ ] Add animation for tree creation and traversal
+- [ ] Add support for parentheses and operator precedence
+- [ ] Unit tests for core calculator logic
+- [ ] Export/Import expression trees as JSON
+
+## 🧑‍💻 Author
+
+Yuhsuan Lin  
+[GitHub Profile](https://github.com/BboRainbo)
+
