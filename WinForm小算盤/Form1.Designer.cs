@@ -10,9 +10,10 @@ namespace WinForm小算盤
         ///  Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-        private string num1;
-        private string num2;
+        private string num1=null;
+        private string num2=null;
         private string Operator=null;
+        private string result = null;
 
         /// <summary>
         ///  Clean up any resources being used.
@@ -59,14 +60,21 @@ namespace WinForm小算盤
             OperatorBox = new TextBox();
             Num2Box = new TextBox();
             button17 = new Button();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
-            textBox7 = new TextBox();
-            textBox8 = new TextBox();
+            HistoryBox1 = new TextBox();
+            HistoryBox2 = new TextBox();
+            HistoryBox3 = new TextBox();
+            HistoryBox4 = new TextBox();
+            HistoryBox5 = new TextBox();
+            button_history1 = new Button();
+            button_history2 = new Button();
+            button_history3 = new Button();
+            button_history5 = new Button();
+            button_history4 = new Button();
+            label3 = new Label();
+            label5 = new Label();
+            PrefixBox = new TextBox();
+            PostFixBox = new TextBox();
+            button18 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -133,6 +141,7 @@ namespace WinForm小算盤
             ResultBox.Name = "ResultBox";
             ResultBox.Size = new Size(337, 35);
             ResultBox.TabIndex = 6;
+            ResultBox.TextChanged += ResultBox_TextChanged;
             // 
             // label1
             // 
@@ -157,7 +166,7 @@ namespace WinForm小算盤
             // 
             button6.Location = new Point(138, 159);
             button6.Name = "button6";
-            button6.Size = new Size(140, 61);
+            button6.Size = new Size(140, 67);
             button6.TabIndex = 9;
             button6.Text = "Clear";
             button6.UseVisualStyleBackColor = true;
@@ -287,75 +296,154 @@ namespace WinForm小算盤
             button17.UseVisualStyleBackColor = true;
             button17.Click += Equal_Click;
             // 
-            // textBox1
+            // HistoryBox1
             // 
-            textBox1.Location = new Point(428, 101);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(203, 35);
-            textBox1.TabIndex = 23;
+            HistoryBox1.Location = new Point(381, 230);
+            HistoryBox1.Name = "HistoryBox1";
+            HistoryBox1.Size = new Size(260, 35);
+            HistoryBox1.TabIndex = 23;
             // 
-            // textBox2
+            // HistoryBox2
             // 
-            textBox2.Location = new Point(546, 143);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(85, 35);
-            textBox2.TabIndex = 24;
+            HistoryBox2.Location = new Point(381, 272);
+            HistoryBox2.Name = "HistoryBox2";
+            HistoryBox2.Size = new Size(260, 35);
+            HistoryBox2.TabIndex = 25;
             // 
-            // textBox3
+            // HistoryBox3
             // 
-            textBox3.Location = new Point(428, 184);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(203, 35);
-            textBox3.TabIndex = 25;
+            HistoryBox3.Location = new Point(381, 313);
+            HistoryBox3.Name = "HistoryBox3";
+            HistoryBox3.Size = new Size(260, 35);
+            HistoryBox3.TabIndex = 27;
             // 
-            // textBox4
+            // HistoryBox4
             // 
-            textBox4.Location = new Point(546, 224);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(85, 35);
-            textBox4.TabIndex = 26;
+            HistoryBox4.Location = new Point(381, 354);
+            HistoryBox4.Name = "HistoryBox4";
+            HistoryBox4.Size = new Size(260, 35);
+            HistoryBox4.TabIndex = 29;
             // 
-            // textBox5
+            // HistoryBox5
             // 
-            textBox5.Location = new Point(428, 265);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(203, 35);
-            textBox5.TabIndex = 27;
+            HistoryBox5.Location = new Point(381, 395);
+            HistoryBox5.Name = "HistoryBox5";
+            HistoryBox5.Size = new Size(260, 35);
+            HistoryBox5.TabIndex = 30;
             // 
-            // textBox6
+            // button_history1
             // 
-            textBox6.Location = new Point(546, 306);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(85, 35);
-            textBox6.TabIndex = 28;
+            button_history1.Location = new Point(647, 231);
+            button_history1.Name = "button_history1";
+            button_history1.Size = new Size(166, 34);
+            button_history1.TabIndex = 31;
+            button_history1.Text = "Goto History";
+            button_history1.UseVisualStyleBackColor = true;
+            button_history1.Click += HistoryTraceBack_Click;
             // 
-            // textBox7
+            // button_history2
             // 
-            textBox7.Location = new Point(428, 347);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(203, 35);
-            textBox7.TabIndex = 29;
+            button_history2.Location = new Point(647, 272);
+            button_history2.Name = "button_history2";
+            button_history2.Size = new Size(166, 34);
+            button_history2.TabIndex = 32;
+            button_history2.Text = "Goto History";
+            button_history2.UseVisualStyleBackColor = true;
+            button_history2.Click += HistoryTraceBack_Click;
             // 
-            // textBox8
+            // button_history3
             // 
-            textBox8.Location = new Point(546, 388);
-            textBox8.Name = "textBox8";
-            textBox8.Size = new Size(85, 35);
-            textBox8.TabIndex = 30;
+            button_history3.Location = new Point(647, 313);
+            button_history3.Name = "button_history3";
+            button_history3.Size = new Size(166, 34);
+            button_history3.TabIndex = 33;
+            button_history3.Text = "Goto History";
+            button_history3.UseVisualStyleBackColor = true;
+            button_history3.Click += HistoryTraceBack_Click;
+            // 
+            // button_history5
+            // 
+            button_history5.Location = new Point(647, 396);
+            button_history5.Name = "button_history5";
+            button_history5.Size = new Size(166, 34);
+            button_history5.TabIndex = 34;
+            button_history5.Text = "Goto History";
+            button_history5.UseVisualStyleBackColor = true;
+            button_history5.Click += HistoryTraceBack_Click;
+            // 
+            // button_history4
+            // 
+            button_history4.Location = new Point(647, 355);
+            button_history4.Name = "button_history4";
+            button_history4.Size = new Size(166, 34);
+            button_history4.TabIndex = 35;
+            button_history4.Text = "Goto History";
+            button_history4.UseVisualStyleBackColor = true;
+            button_history4.Click += HistoryTraceBack_Click;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(447, 69);
+            label3.Name = "label3";
+            label3.Size = new Size(69, 28);
+            label3.TabIndex = 36;
+            label3.Text = "Prefix";
+            label3.Click += label3_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(435, 110);
+            label5.Name = "label5";
+            label5.Size = new Size(81, 28);
+            label5.TabIndex = 38;
+            label5.Text = "Postfix";
+            // 
+            // PrefixBox
+            // 
+            PrefixBox.Location = new Point(548, 69);
+            PrefixBox.Name = "PrefixBox";
+            PrefixBox.Size = new Size(222, 35);
+            PrefixBox.TabIndex = 39;
+            // 
+            // PostFixBox
+            // 
+            PostFixBox.Location = new Point(548, 110);
+            PostFixBox.Name = "PostFixBox";
+            PostFixBox.Size = new Size(222, 35);
+            PostFixBox.TabIndex = 41;
+            // 
+            // button18
+            // 
+            button18.Location = new Point(605, 29);
+            button18.Name = "button18";
+            button18.Size = new Size(112, 34);
+            button18.TabIndex = 42;
+            button18.Text = "Transfer";
+            button18.UseVisualStyleBackColor = true;
+            button18.Click += FixChange_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 28F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(698, 501);
-            Controls.Add(textBox8);
-            Controls.Add(textBox7);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            ClientSize = new Size(850, 501);
+            Controls.Add(button18);
+            Controls.Add(PostFixBox);
+            Controls.Add(PrefixBox);
+            Controls.Add(label5);
+            Controls.Add(label3);
+            Controls.Add(button_history4);
+            Controls.Add(button_history5);
+            Controls.Add(button_history3);
+            Controls.Add(button_history2);
+            Controls.Add(button_history1);
+            Controls.Add(HistoryBox5);
+            Controls.Add(HistoryBox4);
+            Controls.Add(HistoryBox3);
+            Controls.Add(HistoryBox2);
+            Controls.Add(HistoryBox1);
             Controls.Add(button17);
             Controls.Add(Num2Box);
             Controls.Add(OperatorBox);
@@ -412,13 +500,20 @@ namespace WinForm小算盤
         private TextBox Num2Box;
         private TextBox CurrentInputBox;
         private Button button17;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private TextBox textBox5;
-        private TextBox textBox6;
-        private TextBox textBox7;
-        private TextBox textBox8;
+        private TextBox HistoryBox1;
+        private TextBox HistoryBox2;
+        private TextBox HistoryBox3;
+        private TextBox HistoryBox4;
+        private TextBox HistoryBox5;
+        private Button button_history1;
+        private Button button_history2;
+        private Button button_history3;
+        private Button button_history5;
+        private Button button_history4;
+        private Label label3;
+        private Label label5;
+        private TextBox PrefixBox;
+        private TextBox PostFixBox;
+        private Button button18;
     }
 }

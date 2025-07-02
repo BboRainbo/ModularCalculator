@@ -3,64 +3,64 @@
   "WorkspaceRootPath": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\aoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\aoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\operatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\operatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\operatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\operatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\fixchange\\tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\fixchange\\tokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\fixchange\\tokentopostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\fixchange\\tokentopostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\fixchange\\changefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\fixchange\\changefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\aoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\aoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\plus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\plus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\none.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\minus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\minus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|d:\\sw\\00_csharplearning\\winform\u5C0F\u7B97\u76E4\\winform\u5C0F\u7B97\u76E4\\operator\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A687F0F5-973D-4194-BF03-B1E20F852BDD}|WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj|solutionrelative:winform\u5C0F\u7B97\u76E4\\operator\\multiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,66 +70,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
+              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
+              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
+              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:50:28.104Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
-              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
-              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
-              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T02:26:20.065Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OperatorType.cs",
-              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorType.cs",
-              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorType.cs",
-              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorType.cs",
-              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Title": "TokenToPostFix.cs",
+              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\TokenToPostFix.cs",
+              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\TokenToPostFix.cs",
+              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\TokenToPostFix.cs",
+              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\TokenToPostFix.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:59:05.655Z",
+              "WhenOpened": "2025-07-01T08:04:12.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OperatorFactory.cs",
-              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorFactory.cs",
-              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorFactory.cs",
-              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorFactory.cs",
-              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Operator\\OperatorFactory.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBBwBoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Tokenizer.cs",
+              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\Tokenizer.cs",
+              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\Tokenizer.cs",
+              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\Tokenizer.cs",
+              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\Tokenizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:58:58.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Operate.cs",
-              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operate.cs",
-              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operate.cs",
-              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operate.cs",
-              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Operate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:58:56.021Z",
+              "WhenOpened": "2025-07-01T05:11:43.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ChangeFix.cs",
+              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\ChangeFix.cs",
+              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\ChangeFix.cs",
+              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\FixChange\\ChangeFix.cs",
+              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\FixChange\\ChangeFix.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T02:04:31.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
+              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
+              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAVwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:32:35.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "None.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\None.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\None.cs",
@@ -137,12 +151,11 @@
               "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Operator\\None.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:58:49.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:58:49.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AOperator.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\AOperator.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\AOperator.cs",
@@ -150,12 +163,11 @@
               "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\AOperator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:58:36.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:58:36.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Multiple.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\Multiple.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\Multiple.cs",
@@ -179,20 +191,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Divide.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\Divide.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\Divide.cs",
               "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\Divide.cs",
               "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Operator\\Divide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:58:31.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T23:58:31.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Plus.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Operator\\Plus.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Operator\\Plus.cs",
@@ -204,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "WinForm\u5C0F\u7B97\u76E4.csproj",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4.csproj",
@@ -216,46 +227,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Program.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Program.cs",
               "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Program.cs",
               "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T06:32:38.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Form1.Designer.cs",
               "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.Designer.cs",
               "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Form1.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAywA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T06:32:37.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
-              "ToolTip": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
-              "RelativeToolTip": "WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:32:35.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\SW\\00_CSharpLearning\\WinForm\u5C0F\u7B97\u76E4\\WinForm\u5C0F\u7B97\u76E4\\Form1.cs",
               "RelativeDocumentMoniker": "WinForm\u5C0F\u7B97\u76E4\\Form1.cs",

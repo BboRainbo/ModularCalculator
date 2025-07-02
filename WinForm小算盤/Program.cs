@@ -12,6 +12,7 @@ namespace WinForm小算盤
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
         }
     }
 }

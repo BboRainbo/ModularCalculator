@@ -14,3 +14,4 @@ D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windo
 D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.pdb
 D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.genruntimeconfig.cache
 D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\ref\WinForm小算盤.dll
+D:\SW\00_CSharpLearning\WinForm小算盤\WinForm小算盤\obj\Debug\net9.0-windows\WinForm小算盤.sourcelink.json
