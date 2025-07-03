@@ -75,6 +75,7 @@ namespace WinForm小算盤
             PrefixBox = new TextBox();
             PostFixBox = new TextBox();
             button18 = new Button();
+            button19 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -288,9 +289,9 @@ namespace WinForm小算盤
             // 
             // button17
             // 
-            button17.Location = new Point(211, 436);
+            button17.Location = new Point(284, 436);
             button17.Name = "button17";
-            button17.Size = new Size(140, 62);
+            button17.Size = new Size(67, 62);
             button17.TabIndex = 22;
             button17.Text = "=";
             button17.UseVisualStyleBackColor = true;
@@ -384,7 +385,7 @@ namespace WinForm小算盤
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(447, 69);
+            label3.Location = new Point(389, 68);
             label3.Name = "label3";
             label3.Size = new Size(69, 28);
             label3.TabIndex = 36;
@@ -394,7 +395,7 @@ namespace WinForm小算盤
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(435, 110);
+            label5.Location = new Point(377, 109);
             label5.Name = "label5";
             label5.Size = new Size(81, 28);
             label5.TabIndex = 38;
@@ -402,21 +403,21 @@ namespace WinForm小算盤
             // 
             // PrefixBox
             // 
-            PrefixBox.Location = new Point(548, 69);
+            PrefixBox.Location = new Point(490, 68);
             PrefixBox.Name = "PrefixBox";
             PrefixBox.Size = new Size(222, 35);
             PrefixBox.TabIndex = 39;
             // 
             // PostFixBox
             // 
-            PostFixBox.Location = new Point(548, 110);
+            PostFixBox.Location = new Point(490, 109);
             PostFixBox.Name = "PostFixBox";
             PostFixBox.Size = new Size(222, 35);
             PostFixBox.TabIndex = 41;
             // 
             // button18
             // 
-            button18.Location = new Point(605, 29);
+            button18.Location = new Point(547, 28);
             button18.Name = "button18";
             button18.Size = new Size(112, 34);
             button18.TabIndex = 42;
@@ -424,11 +425,22 @@ namespace WinForm小算盤
             button18.UseVisualStyleBackColor = true;
             button18.Click += FixChange_Click;
             // 
+            // button19
+            // 
+            button19.Location = new Point(211, 436);
+            button19.Name = "button19";
+            button19.Size = new Size(67, 62);
+            button19.TabIndex = 43;
+            button19.Text = "0";
+            button19.UseVisualStyleBackColor = true;
+            button19.Click += NumberInput_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 28F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(850, 501);
+            ClientSize = new Size(821, 501);
+            Controls.Add(button19);
             Controls.Add(button18);
             Controls.Add(PostFixBox);
             Controls.Add(PrefixBox);
@@ -515,5 +527,6 @@ namespace WinForm小算盤
         private TextBox PrefixBox;
         private TextBox PostFixBox;
         private Button button18;
+        private Button button19;
     }
 }

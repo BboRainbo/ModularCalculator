@@ -8,14 +8,14 @@ namespace WinForm小算盤.FixChange.Tree
 {
     internal class Node
     {
-        public string value = "";
-        public Node? left;
-        public Node? right; // nullable的寫法
+        public string Value = "";
+        public Node? Left;
+        public Node? Right; // nullable的寫法
         public Node(string VAL)
         {
-            value = VAL;
-            left = null;
-            right = null;
+            Value = VAL;
+            Left = null;
+            Right = null;
         }
     }
 }

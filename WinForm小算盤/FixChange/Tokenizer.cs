@@ -15,7 +15,12 @@
                 if (ch.ToString() == "-")
                 {
                     //"負"的條件是出現在開頭或是"("之後以及運算元之後
-                    bool isNegToken = (i == 0 || (result.Count != 0 && result.Last() == "(") || OP.Contains(result.Last()));
+                    bool isNegToken = 
+                        (
+                        i == 0 ||    //開頭
+                        (result.Count != 0 && result.Last() == "(") ||  //"("之後(且確保前面已經有東西)
+                        (result.Count != 0 && OP.Contains(result.Last()))//運算符之後(且確保前面已經有東西)
+                        ); 
                     if (isNegToken)
                     {
                         current.Add(ch);

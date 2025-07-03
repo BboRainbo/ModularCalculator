@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForm小算盤")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05642686e466a06c6292c228cb85f1c258bdd463")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29c4244445060d8d2c7013b434371dfc2496802c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForm小算盤")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForm小算盤")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

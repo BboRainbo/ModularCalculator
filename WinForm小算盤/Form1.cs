@@ -75,7 +75,7 @@ namespace WinForm小算盤
             PrefixBox.Text = print;
             result = FixChange.ChangeFix.InfixToPostfix(Num1Box.Text, OperatorBox.Text, Num2Box.Text);
             print = FixChange.ChangeFix.Print(result);
-            PostFixBox.Text = print;            
+            PostFixBox.Text = print;
         }
 
         private void Form1_Load(object sender, EventArgs e)
